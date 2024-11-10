@@ -8,3 +8,5 @@
 
   
 [![roadmap.sh](https://roadmap.sh/card/tall/663f8b80e8cf2039c5df8e5e?variant=dark&roadmaps=flutter%2Cgit-github%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeab-dev)](https://github.com/anuraghazra/github-readme-stats)

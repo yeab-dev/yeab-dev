@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/b44460fe-e604-4278-8b55-297afad6cb79.svg)](https://wakatime.com/@b44460fe-e604-4278-8b55-297afad6cb79) 
 
 - 🙋‍♂️ Hi, I’m Yeabsera
-- 👀 I’m a passionate mobile app developer
+- 👀 I’m a passionate mobile app developer 
 - 💞️ I’m looking to collaborate on opensource flutter projects
 - 😄 Pronouns: He/ Him
 - Hobbies: Rubik's cube, learning languages

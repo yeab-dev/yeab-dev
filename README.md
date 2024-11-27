@@ -6,6 +6,6 @@
 - 😄 Pronouns: He/ Him
 - Hobbies: Rubik's cube, learning languages
 
-  
+
 <!--[![roadmap.sh](https://roadmap.sh/card/tall/663f8b80e8cf2039c5df8e5e?variant=dark&roadmaps=flutter%2Cgit-github%2Cdatastructures-and-algorithms)](https://roadmap.sh) -->
 

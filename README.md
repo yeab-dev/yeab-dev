@@ -44,7 +44,7 @@ Let's connect and build something amazing! Reach out to me at:
 
 - Email: [yeab.dev@gmail.com](mailto\:yeab.dev@gmail.com)
 - LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/yourprofile)yeab-dev
-- Telegram: t.me/yeab\_dev
+- Telegram: [yeab](https://t.me/yeab\_dev)
 
 Thanks for stopping by! 🌟
 

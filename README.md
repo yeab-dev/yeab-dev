@@ -37,6 +37,7 @@ I'm a passionate software engineer, problem solver, and lifelong learner, always
 - Data Structures & Algorithms
 - Competitive Programming
 - System Design & Scalability
+- Mobile Application Development
 
 # 💌 Contact
 

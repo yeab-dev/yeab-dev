@@ -43,8 +43,6 @@ I'm a passionate software engineer, problem solver, and lifelong learner, always
 Let's connect and build something amazing! Reach out to me at:
 
 - Email: [yeab.dev@gmail.com](mailto\:yeab.dev@gmail.com)
-- LinkedIn: [Yeabsera Wendwesen](https://www.linkedin.com/in/yeab-dev)
-- Telegram: [yeab](https://t.me/yeab_dev)
 
 Thanks for stopping by! 🌟
 

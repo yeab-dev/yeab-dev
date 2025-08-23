@@ -3,4 +3,3 @@
  - 🙋‍♂️ Hi, I’m Yeabsera
  - 👀 I’m a passionate software developer
  - 💞️ I’m looking to collaborate on opensource projects
- - 😄 Pronouns: He/ Him
